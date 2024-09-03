@@ -1,5 +1,5 @@
-import { LoginForm } from "@/components/login-form"
+import { CompleteChakraLoginForm } from "@/components/complete-chakra-login-form"
 
 export default function Page() {
-  return <LoginForm />
+  return <CompleteChakraLoginForm />
 }
